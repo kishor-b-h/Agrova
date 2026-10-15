@@ -1,0 +1,1460 @@
+[
+  {
+    "key": "rice-cover",
+    "crop": "rice",
+    "query": "Oryza sativa",
+    "label": "Rice (Paddy)"
+  },
+  {
+    "key": "rice-0",
+    "crop": "rice",
+    "query": "rice nursery seedlings",
+    "label": "Rice (Paddy): Nursery & Germination (Month 1)"
+  },
+  {
+    "key": "rice-1",
+    "crop": "rice",
+    "query": "rice transplanting",
+    "label": "Rice (Paddy): Transplanting & Tillering (Month 2)"
+  },
+  {
+    "key": "rice-2",
+    "crop": "rice",
+    "query": "rice flowering panicle",
+    "label": "Rice (Paddy): Panicle Initiation & Flowering (Month 3-4)"
+  },
+  {
+    "key": "rice-3",
+    "crop": "rice",
+    "query": "ripe rice panicles",
+    "label": "Rice (Paddy): Grain Filling & Golden Harvest (Month 5-6)"
+  },
+  {
+    "key": "wheat-cover",
+    "crop": "wheat",
+    "query": "Triticum aestivum",
+    "label": "Wheat"
+  },
+  {
+    "key": "wheat-0",
+    "crop": "wheat",
+    "query": "wheat seeds",
+    "label": "Wheat: Sowing"
+  },
+  {
+    "key": "wheat-1",
+    "crop": "wheat",
+    "query": "wheat seedlings",
+    "label": "Wheat: Germination"
+  },
+  {
+    "key": "wheat-2",
+    "crop": "wheat",
+    "query": "wheat tillering",
+    "label": "Wheat: Tillering"
+  },
+  {
+    "key": "wheat-3",
+    "crop": "wheat",
+    "query": "wheat stem elongation",
+    "label": "Wheat: Jointing & Booting"
+  },
+  {
+    "key": "wheat-4",
+    "crop": "wheat",
+    "query": "wheat flowering",
+    "label": "Wheat: Heading & Flowering"
+  },
+  {
+    "key": "wheat-5",
+    "crop": "wheat",
+    "query": "ripe wheat ears",
+    "label": "Wheat: Grain Filling & Harvest"
+  },
+  {
+    "key": "maize-cover",
+    "crop": "maize",
+    "query": "Zea mays",
+    "label": "Maize (Corn)"
+  },
+  {
+    "key": "maize-0",
+    "crop": "maize",
+    "query": "maize seedlings",
+    "label": "Maize (Corn): Sowing & Germination"
+  },
+  {
+    "key": "maize-1",
+    "crop": "maize",
+    "query": "maize young plants",
+    "label": "Maize (Corn): Vegetative Growth"
+  },
+  {
+    "key": "maize-2",
+    "crop": "maize",
+    "query": "maize tassel silk",
+    "label": "Maize (Corn): Tasseling & Silking"
+  },
+  {
+    "key": "maize-3",
+    "crop": "maize",
+    "query": "maize green cob",
+    "label": "Maize (Corn): Grain Filling"
+  },
+  {
+    "key": "maize-4",
+    "crop": "maize",
+    "query": "maize harvest",
+    "label": "Maize (Corn): Harvest"
+  },
+  {
+    "key": "barley-cover",
+    "crop": "barley",
+    "query": "Hordeum vulgare",
+    "label": "Barley"
+  },
+  {
+    "key": "barley-0",
+    "crop": "barley",
+    "query": "barley seeds",
+    "label": "Barley: Sowing"
+  },
+  {
+    "key": "barley-1",
+    "crop": "barley",
+    "query": "barley young plants",
+    "label": "Barley: Tillering"
+  },
+  {
+    "key": "barley-2",
+    "crop": "barley",
+    "query": "barley green field",
+    "label": "Barley: Jointing"
+  },
+  {
+    "key": "barley-3",
+    "crop": "barley",
+    "query": "barley ripe ears",
+    "label": "Barley: Heading & Harvest"
+  },
+  {
+    "key": "millet-cover",
+    "crop": "millet",
+    "query": "Cenchrus americanus",
+    "label": "Millet"
+  },
+  {
+    "key": "millet-0",
+    "crop": "millet",
+    "query": "pearl millet seeds",
+    "label": "Millet: Sowing"
+  },
+  {
+    "key": "millet-1",
+    "crop": "millet",
+    "query": "pearl millet field",
+    "label": "Millet: Vegetative"
+  },
+  {
+    "key": "millet-2",
+    "crop": "millet",
+    "query": "pearl millet panicle",
+    "label": "Millet: Heading & Grain Fill"
+  },
+  {
+    "key": "millet-3",
+    "crop": "millet",
+    "query": "pearl millet grain",
+    "label": "Millet: Harvest"
+  },
+  {
+    "key": "sorghum-cover",
+    "crop": "sorghum",
+    "query": "Sorghum bicolor",
+    "label": "Sorghum"
+  },
+  {
+    "key": "sorghum-0",
+    "crop": "sorghum",
+    "query": "sorghum seeds",
+    "label": "Sorghum: Sowing"
+  },
+  {
+    "key": "sorghum-1",
+    "crop": "sorghum",
+    "query": "sorghum plants",
+    "label": "Sorghum: Vegetative"
+  },
+  {
+    "key": "sorghum-2",
+    "crop": "sorghum",
+    "query": "sorghum flowering",
+    "label": "Sorghum: Flowering & Grain Fill"
+  },
+  {
+    "key": "sorghum-3",
+    "crop": "sorghum",
+    "query": "sorghum ripe panicle",
+    "label": "Sorghum: Harvest"
+  },
+  {
+    "key": "tomato-cover",
+    "crop": "tomato",
+    "query": "Solanum lycopersicum fruit",
+    "label": "Tomato"
+  },
+  {
+    "key": "tomato-0",
+    "crop": "tomato",
+    "query": "tomato seedlings",
+    "label": "Tomato: Nursery & Seedling Raising (Month 1)"
+  },
+  {
+    "key": "tomato-1",
+    "crop": "tomato",
+    "query": "tomato plants stakes",
+    "label": "Tomato: Transplanting & Staking (Month 2)"
+  },
+  {
+    "key": "tomato-2",
+    "crop": "tomato",
+    "query": "tomato flowers",
+    "label": "Tomato: Flowering & Fruit Set (Month 2.5)"
+  },
+  {
+    "key": "tomato-3",
+    "crop": "tomato",
+    "query": "ripe tomatoes plant",
+    "label": "Tomato: Ripening & Red Harvest (Month 3)"
+  },
+  {
+    "key": "onion-cover",
+    "crop": "onion",
+    "query": "Allium cepa bulbs",
+    "label": "Onion"
+  },
+  {
+    "key": "onion-0",
+    "crop": "onion",
+    "query": "onion seedlings",
+    "label": "Onion: Nursery"
+  },
+  {
+    "key": "onion-1",
+    "crop": "onion",
+    "query": "onion young plants",
+    "label": "Onion: Transplanting"
+  },
+  {
+    "key": "onion-2",
+    "crop": "onion",
+    "query": "onion growing bulbs",
+    "label": "Onion: Bulb Development"
+  },
+  {
+    "key": "onion-3",
+    "crop": "onion",
+    "query": "onion harvest",
+    "label": "Onion: Maturity & Harvest"
+  },
+  {
+    "key": "potato-cover",
+    "crop": "potato",
+    "query": "potato tubers",
+    "label": "Potato"
+  },
+  {
+    "key": "potato-0",
+    "crop": "potato",
+    "query": "seed potatoes sprouting",
+    "label": "Potato: Planting"
+  },
+  {
+    "key": "potato-1",
+    "crop": "potato",
+    "query": "potato young plants",
+    "label": "Potato: Sprouting & Growth"
+  },
+  {
+    "key": "potato-2",
+    "crop": "potato",
+    "query": "potato tubers plant",
+    "label": "Potato: Tuber Formation"
+  },
+  {
+    "key": "potato-3",
+    "crop": "potato",
+    "query": "potato harvest",
+    "label": "Potato: Maturity & Harvest"
+  },
+  {
+    "key": "capsicum-cover",
+    "crop": "capsicum",
+    "query": "bell pepper plant",
+    "label": "Bell Pepper (Capsicum)"
+  },
+  {
+    "key": "capsicum-0",
+    "crop": "capsicum",
+    "query": "pepper seedlings",
+    "label": "Bell Pepper (Capsicum): Nursery"
+  },
+  {
+    "key": "capsicum-1",
+    "crop": "capsicum",
+    "query": "Capsicum annuum plant",
+    "label": "Bell Pepper (Capsicum): Growth"
+  },
+  {
+    "key": "capsicum-2",
+    "crop": "capsicum",
+    "query": "Capsicum annuum flower",
+    "label": "Bell Pepper (Capsicum): Flowering & Fruiting"
+  },
+  {
+    "key": "capsicum-3",
+    "crop": "capsicum",
+    "query": "bell peppers",
+    "label": "Bell Pepper (Capsicum): Harvest"
+  },
+  {
+    "key": "spinach-cover",
+    "crop": "spinach",
+    "query": "Spinacia oleracea",
+    "label": "Spinach (Palak)"
+  },
+  {
+    "key": "spinach-0",
+    "crop": "spinach",
+    "query": "spinach seeds",
+    "label": "Spinach (Palak): Sowing"
+  },
+  {
+    "key": "spinach-1",
+    "crop": "spinach",
+    "query": "spinach seedlings",
+    "label": "Spinach (Palak): Germination"
+  },
+  {
+    "key": "spinach-2",
+    "crop": "spinach",
+    "query": "spinach growing",
+    "label": "Spinach (Palak): Growth"
+  },
+  {
+    "key": "spinach-3",
+    "crop": "spinach",
+    "query": "spinach leaves",
+    "label": "Spinach (Palak): Harvest"
+  },
+  {
+    "key": "cabbage-cover",
+    "crop": "cabbage",
+    "query": "cabbage heads",
+    "label": "Cabbage"
+  },
+  {
+    "key": "cabbage-0",
+    "crop": "cabbage",
+    "query": "cabbage seedlings",
+    "label": "Cabbage: Nursery"
+  },
+  {
+    "key": "cabbage-1",
+    "crop": "cabbage",
+    "query": "cabbage young plants",
+    "label": "Cabbage: Growth"
+  },
+  {
+    "key": "cabbage-2",
+    "crop": "cabbage",
+    "query": "cabbage growing head",
+    "label": "Cabbage: Head Formation"
+  },
+  {
+    "key": "cabbage-3",
+    "crop": "cabbage",
+    "query": "cabbage harvest",
+    "label": "Cabbage: Harvest"
+  },
+  {
+    "key": "garlic-cover",
+    "crop": "garlic",
+    "query": "Allium sativum bulbs",
+    "label": "Garlic"
+  },
+  {
+    "key": "garlic-0",
+    "crop": "garlic",
+    "query": "garlic cloves",
+    "label": "Garlic: Planting"
+  },
+  {
+    "key": "garlic-1",
+    "crop": "garlic",
+    "query": "garlic sprouting",
+    "label": "Garlic: Sprouting"
+  },
+  {
+    "key": "garlic-2",
+    "crop": "garlic",
+    "query": "garlic plants",
+    "label": "Garlic: Bulb Development"
+  },
+  {
+    "key": "garlic-3",
+    "crop": "garlic",
+    "query": "garlic harvest",
+    "label": "Garlic: Harvest"
+  },
+  {
+    "key": "chickpea-cover",
+    "crop": "chickpea",
+    "query": "Cicer arietinum pods",
+    "label": "Chickpea (Chana)"
+  },
+  {
+    "key": "chickpea-0",
+    "crop": "chickpea",
+    "query": "chickpea seeds",
+    "label": "Chickpea (Chana): Sowing"
+  },
+  {
+    "key": "chickpea-1",
+    "crop": "chickpea",
+    "query": "Cicer arietinum plants",
+    "label": "Chickpea (Chana): Vegetative"
+  },
+  {
+    "key": "chickpea-2",
+    "crop": "chickpea",
+    "query": "Cicer arietinum flowers",
+    "label": "Chickpea (Chana): Flowering"
+  },
+  {
+    "key": "chickpea-3",
+    "crop": "chickpea",
+    "query": "Cicer arietinum pods",
+    "label": "Chickpea (Chana): Pod Fill & Harvest"
+  },
+  {
+    "key": "lentil-cover",
+    "crop": "lentil",
+    "query": "Lens culinaris seeds",
+    "label": "Lentil (Masoor)"
+  },
+  {
+    "key": "lentil-0",
+    "crop": "lentil",
+    "query": "lentil seeds",
+    "label": "Lentil (Masoor): Sowing"
+  },
+  {
+    "key": "lentil-1",
+    "crop": "lentil",
+    "query": "Lens culinaris plant",
+    "label": "Lentil (Masoor): Growth"
+  },
+  {
+    "key": "lentil-2",
+    "crop": "lentil",
+    "query": "Lens culinaris flower",
+    "label": "Lentil (Masoor): Flowering & Pod Fill"
+  },
+  {
+    "key": "lentil-3",
+    "crop": "lentil",
+    "query": "lentil dry seeds",
+    "label": "Lentil (Masoor): Harvest"
+  },
+  {
+    "key": "soybean-cover",
+    "crop": "soybean",
+    "query": "Glycine max pods",
+    "label": "Soybean"
+  },
+  {
+    "key": "soybean-0",
+    "crop": "soybean",
+    "query": "soybean seeds",
+    "label": "Soybean: Sowing"
+  },
+  {
+    "key": "soybean-1",
+    "crop": "soybean",
+    "query": "Glycine max plant",
+    "label": "Soybean: Vegetative"
+  },
+  {
+    "key": "soybean-2",
+    "crop": "soybean",
+    "query": "Glycine max flowers",
+    "label": "Soybean: Flowering & Pod Set"
+  },
+  {
+    "key": "soybean-3",
+    "crop": "soybean",
+    "query": "soybean mature pods",
+    "label": "Soybean: Harvest"
+  },
+  {
+    "key": "moong-cover",
+    "crop": "moong",
+    "query": "Vigna radiata pods",
+    "label": "Green Gram (Moong)"
+  },
+  {
+    "key": "moong-0",
+    "crop": "moong",
+    "query": "mung bean seeds",
+    "label": "Green Gram (Moong): Sowing"
+  },
+  {
+    "key": "moong-1",
+    "crop": "moong",
+    "query": "Vigna radiata plant",
+    "label": "Green Gram (Moong): Growth"
+  },
+  {
+    "key": "moong-2",
+    "crop": "moong",
+    "query": "Vigna radiata flowers",
+    "label": "Green Gram (Moong): Flowering & Pod Fill"
+  },
+  {
+    "key": "moong-3",
+    "crop": "moong",
+    "query": "Vigna radiata pods",
+    "label": "Green Gram (Moong): Harvest"
+  },
+  {
+    "key": "sugarcane-cover",
+    "crop": "sugarcane",
+    "query": "Saccharum officinarum",
+    "label": "Sugarcane"
+  },
+  {
+    "key": "sugarcane-0",
+    "crop": "sugarcane",
+    "query": "sugarcane cuttings",
+    "label": "Sugarcane: Planting"
+  },
+  {
+    "key": "sugarcane-1",
+    "crop": "sugarcane",
+    "query": "sugarcane sprouting",
+    "label": "Sugarcane: Germination"
+  },
+  {
+    "key": "sugarcane-2",
+    "crop": "sugarcane",
+    "query": "sugarcane young plants",
+    "label": "Sugarcane: Tillering"
+  },
+  {
+    "key": "sugarcane-3",
+    "crop": "sugarcane",
+    "query": "sugarcane field",
+    "label": "Sugarcane: Grand Growth"
+  },
+  {
+    "key": "sugarcane-4",
+    "crop": "sugarcane",
+    "query": "sugarcane stems",
+    "label": "Sugarcane: Maturation"
+  },
+  {
+    "key": "sugarcane-5",
+    "crop": "sugarcane",
+    "query": "sugarcane harvest",
+    "label": "Sugarcane: Harvest"
+  },
+  {
+    "key": "cotton-cover",
+    "crop": "cotton",
+    "query": "Gossypium hirsutum cotton bolls",
+    "label": "Cotton"
+  },
+  {
+    "key": "cotton-0",
+    "crop": "cotton",
+    "query": "cotton seeds",
+    "label": "Cotton: Sowing"
+  },
+  {
+    "key": "cotton-1",
+    "crop": "cotton",
+    "query": "Gossypium hirsutum plant",
+    "label": "Cotton: Vegetative"
+  },
+  {
+    "key": "cotton-2",
+    "crop": "cotton",
+    "query": "Gossypium hirsutum flower",
+    "label": "Cotton: Flowering & Boll Setting"
+  },
+  {
+    "key": "cotton-3",
+    "crop": "cotton",
+    "query": "cotton open bolls",
+    "label": "Cotton: Boll Opening & Harvest"
+  },
+  {
+    "key": "tobacco-cover",
+    "crop": "tobacco",
+    "query": "Nicotiana tabacum",
+    "label": "Tobacco"
+  },
+  {
+    "key": "tobacco-0",
+    "crop": "tobacco",
+    "query": "tobacco seedlings",
+    "label": "Tobacco: Nursery"
+  },
+  {
+    "key": "tobacco-1",
+    "crop": "tobacco",
+    "query": "tobacco field",
+    "label": "Tobacco: Transplanting & Growth"
+  },
+  {
+    "key": "tobacco-2",
+    "crop": "tobacco",
+    "query": "tobacco curing",
+    "label": "Tobacco: Harvest & Curing"
+  },
+  {
+    "key": "turmeric-cover",
+    "crop": "turmeric",
+    "query": "Curcuma longa rhizomes",
+    "label": "Turmeric"
+  },
+  {
+    "key": "turmeric-0",
+    "crop": "turmeric",
+    "query": "turmeric rhizomes",
+    "label": "Turmeric: Planting"
+  },
+  {
+    "key": "turmeric-1",
+    "crop": "turmeric",
+    "query": "turmeric sprouting",
+    "label": "Turmeric: Sprouting"
+  },
+  {
+    "key": "turmeric-2",
+    "crop": "turmeric",
+    "query": "Curcuma longa plants",
+    "label": "Turmeric: Vegetative Growth"
+  },
+  {
+    "key": "turmeric-3",
+    "crop": "turmeric",
+    "query": "turmeric rhizomes roots",
+    "label": "Turmeric: Rhizome Bulking"
+  },
+  {
+    "key": "turmeric-4",
+    "crop": "turmeric",
+    "query": "turmeric harvest",
+    "label": "Turmeric: Harvest"
+  },
+  {
+    "key": "ginger-cover",
+    "crop": "ginger",
+    "query": "Zingiber officinale rhizomes",
+    "label": "Ginger"
+  },
+  {
+    "key": "ginger-0",
+    "crop": "ginger",
+    "query": "ginger rhizome",
+    "label": "Ginger: Planting"
+  },
+  {
+    "key": "ginger-1",
+    "crop": "ginger",
+    "query": "ginger sprouting",
+    "label": "Ginger: Sprouting"
+  },
+  {
+    "key": "ginger-2",
+    "crop": "ginger",
+    "query": "Zingiber officinale plant",
+    "label": "Ginger: Active Growth"
+  },
+  {
+    "key": "ginger-3",
+    "crop": "ginger",
+    "query": "ginger harvest",
+    "label": "Ginger: Harvest"
+  },
+  {
+    "key": "chili-cover",
+    "crop": "chili",
+    "query": "Capsicum annuum red chili",
+    "label": "Chili Pepper"
+  },
+  {
+    "key": "chili-0",
+    "crop": "chili",
+    "query": "chili seedlings",
+    "label": "Chili Pepper: Nursery"
+  },
+  {
+    "key": "chili-1",
+    "crop": "chili",
+    "query": "chili pepper plant",
+    "label": "Chili Pepper: Growth"
+  },
+  {
+    "key": "chili-2",
+    "crop": "chili",
+    "query": "chili pepper flower",
+    "label": "Chili Pepper: Flowering & Fruiting"
+  },
+  {
+    "key": "chili-3",
+    "crop": "chili",
+    "query": "red chili peppers",
+    "label": "Chili Pepper: Harvest"
+  },
+  {
+    "key": "coriander-cover",
+    "crop": "coriander",
+    "query": "Coriandrum sativum leaves",
+    "label": "Coriander"
+  },
+  {
+    "key": "coriander-0",
+    "crop": "coriander",
+    "query": "coriander seeds",
+    "label": "Coriander: Sowing"
+  },
+  {
+    "key": "coriander-1",
+    "crop": "coriander",
+    "query": "coriander plant leaves",
+    "label": "Coriander: Growth"
+  },
+  {
+    "key": "coriander-2",
+    "crop": "coriander",
+    "query": "Coriandrum sativum flowers",
+    "label": "Coriander: Flowering & Seed"
+  },
+  {
+    "key": "coriander-3",
+    "crop": "coriander",
+    "query": "coriander dried seeds",
+    "label": "Coriander: Harvest"
+  },
+  {
+    "key": "mustard-cover",
+    "crop": "mustard",
+    "query": "Brassica juncea flowers",
+    "label": "Mustard"
+  },
+  {
+    "key": "mustard-0",
+    "crop": "mustard",
+    "query": "mustard seeds",
+    "label": "Mustard: Sowing"
+  },
+  {
+    "key": "mustard-1",
+    "crop": "mustard",
+    "query": "Brassica juncea plant",
+    "label": "Mustard: Vegetative"
+  },
+  {
+    "key": "mustard-2",
+    "crop": "mustard",
+    "query": "Brassica juncea flowers",
+    "label": "Mustard: Flowering"
+  },
+  {
+    "key": "mustard-3",
+    "crop": "mustard",
+    "query": "Brassica juncea pods",
+    "label": "Mustard: Pod Fill & Harvest"
+  },
+  {
+    "key": "sunflower-cover",
+    "crop": "sunflower",
+    "query": "Helianthus annuus flower",
+    "label": "Sunflower"
+  },
+  {
+    "key": "sunflower-0",
+    "crop": "sunflower",
+    "query": "sunflower seeds",
+    "label": "Sunflower: Sowing"
+  },
+  {
+    "key": "sunflower-1",
+    "crop": "sunflower",
+    "query": "sunflower young plants",
+    "label": "Sunflower: Growth"
+  },
+  {
+    "key": "sunflower-2",
+    "crop": "sunflower",
+    "query": "sunflower flowering",
+    "label": "Sunflower: Flowering"
+  },
+  {
+    "key": "sunflower-3",
+    "crop": "sunflower",
+    "query": "sunflower seed head mature",
+    "label": "Sunflower: Seed Fill & Harvest"
+  },
+  {
+    "key": "groundnut-cover",
+    "crop": "groundnut",
+    "query": "Arachis hypogaea pods",
+    "label": "Groundnut (Peanut)"
+  },
+  {
+    "key": "groundnut-0",
+    "crop": "groundnut",
+    "query": "peanut seeds",
+    "label": "Groundnut (Peanut): Sowing"
+  },
+  {
+    "key": "groundnut-1",
+    "crop": "groundnut",
+    "query": "Arachis hypogaea plants",
+    "label": "Groundnut (Peanut): Growth"
+  },
+  {
+    "key": "groundnut-2",
+    "crop": "groundnut",
+    "query": "Arachis hypogaea pegs",
+    "label": "Groundnut (Peanut): Pegging & Pod Formation"
+  },
+  {
+    "key": "groundnut-3",
+    "crop": "groundnut",
+    "query": "groundnut harvest",
+    "label": "Groundnut (Peanut): Maturity & Harvest"
+  },
+  {
+    "key": "mango-cover",
+    "crop": "mango",
+    "query": "Mangifera indica fruits",
+    "label": "Mango"
+  },
+  {
+    "key": "mango-0",
+    "crop": "mango",
+    "query": "mango sapling",
+    "label": "Mango: Year 1-3"
+  },
+  {
+    "key": "mango-1",
+    "crop": "mango",
+    "query": "mango tree fruit",
+    "label": "Mango: Year 3-5"
+  },
+  {
+    "key": "mango-2",
+    "crop": "mango",
+    "query": "mango flowers",
+    "label": "Mango: Annual Cycle - Flowering"
+  },
+  {
+    "key": "mango-3",
+    "crop": "mango",
+    "query": "mango fruits tree",
+    "label": "Mango: Annual Cycle - Fruiting"
+  },
+  {
+    "key": "banana-cover",
+    "crop": "banana",
+    "query": "Musa banana bunch",
+    "label": "Banana"
+  },
+  {
+    "key": "banana-0",
+    "crop": "banana",
+    "query": "banana suckers",
+    "label": "Banana: Planting"
+  },
+  {
+    "key": "banana-1",
+    "crop": "banana",
+    "query": "banana young plants",
+    "label": "Banana: Vegetative"
+  },
+  {
+    "key": "banana-2",
+    "crop": "banana",
+    "query": "banana inflorescence",
+    "label": "Banana: Flowering"
+  },
+  {
+    "key": "banana-3",
+    "crop": "banana",
+    "query": "banana bunch",
+    "label": "Banana: Fruiting & Harvest"
+  },
+  {
+    "key": "citrus-cover",
+    "crop": "citrus",
+    "query": "Citrus sinensis fruit tree",
+    "label": "Citrus (Lemon/Orange)"
+  },
+  {
+    "key": "citrus-0",
+    "crop": "citrus",
+    "query": "orange tree sapling",
+    "label": "Citrus (Lemon/Orange): Year 1-3"
+  },
+  {
+    "key": "citrus-1",
+    "crop": "citrus",
+    "query": "orange tree fruit",
+    "label": "Citrus (Lemon/Orange): Year 3-5"
+  },
+  {
+    "key": "citrus-2",
+    "crop": "citrus",
+    "query": "Citrus sinensis flowers",
+    "label": "Citrus (Lemon/Orange): Annual Flowering"
+  },
+  {
+    "key": "citrus-3",
+    "crop": "citrus",
+    "query": "oranges tree",
+    "label": "Citrus (Lemon/Orange): Fruiting"
+  },
+  {
+    "key": "guava-cover",
+    "crop": "guava",
+    "query": "Psidium guajava fruits",
+    "label": "Guava"
+  },
+  {
+    "key": "guava-0",
+    "crop": "guava",
+    "query": "guava sapling",
+    "label": "Guava: Year 1-2"
+  },
+  {
+    "key": "guava-1",
+    "crop": "guava",
+    "query": "guava fruits tree",
+    "label": "Guava: Year 2-3"
+  },
+  {
+    "key": "guava-2",
+    "crop": "guava",
+    "query": "guava orchard",
+    "label": "Guava: Annual Management"
+  },
+  {
+    "key": "grapes-cover",
+    "crop": "grapes",
+    "query": "Vitis vinifera grapes",
+    "label": "Grapes"
+  },
+  {
+    "key": "grapes-0",
+    "crop": "grapes",
+    "query": "grapevine young plant",
+    "label": "Grapes: Year 1-2"
+  },
+  {
+    "key": "grapes-1",
+    "crop": "grapes",
+    "query": "grapevine pruning",
+    "label": "Grapes: Pruning (Annual)"
+  },
+  {
+    "key": "grapes-2",
+    "crop": "grapes",
+    "query": "Vitis vinifera flowers",
+    "label": "Grapes: Flowering & Berry Set"
+  },
+  {
+    "key": "grapes-3",
+    "crop": "grapes",
+    "query": "ripe grape bunch",
+    "label": "Grapes: Harvest"
+  },
+  {
+    "key": "papaya-cover",
+    "crop": "papaya",
+    "query": "Carica papaya fruit tree",
+    "label": "Papaya"
+  },
+  {
+    "key": "papaya-0",
+    "crop": "papaya",
+    "query": "papaya seedlings",
+    "label": "Papaya: Nursery & Planting"
+  },
+  {
+    "key": "papaya-1",
+    "crop": "papaya",
+    "query": "papaya young plants",
+    "label": "Papaya: Vegetative Growth"
+  },
+  {
+    "key": "papaya-2",
+    "crop": "papaya",
+    "query": "papaya flowers",
+    "label": "Papaya: Flowering"
+  },
+  {
+    "key": "papaya-3",
+    "crop": "papaya",
+    "query": "papaya fruits tree",
+    "label": "Papaya: Fruiting & Harvest"
+  },
+  {
+    "key": "coconut-cover",
+    "crop": "coconut",
+    "query": "Cocos nucifera nuts",
+    "label": "Coconut"
+  },
+  {
+    "key": "coconut-0",
+    "crop": "coconut",
+    "query": "coconut seedling",
+    "label": "Coconut: Year 1-3"
+  },
+  {
+    "key": "coconut-1",
+    "crop": "coconut",
+    "query": "young coconut palm",
+    "label": "Coconut: Year 3-5"
+  },
+  {
+    "key": "coconut-2",
+    "crop": "coconut",
+    "query": "coconut inflorescence",
+    "label": "Coconut: Year 5-7"
+  },
+  {
+    "key": "coconut-3",
+    "crop": "coconut",
+    "query": "coconut fruits palm",
+    "label": "Coconut: Year 7+"
+  },
+  {
+    "key": "coffee-cover",
+    "crop": "coffee",
+    "query": "Coffea arabica cherries",
+    "label": "Coffee"
+  },
+  {
+    "key": "coffee-0",
+    "crop": "coffee",
+    "query": "coffee seedlings",
+    "label": "Coffee: Year 1-3"
+  },
+  {
+    "key": "coffee-1",
+    "crop": "coffee",
+    "query": "coffee cherries plant",
+    "label": "Coffee: Year 3-5"
+  },
+  {
+    "key": "coffee-2",
+    "crop": "coffee",
+    "query": "Coffea arabica flowers",
+    "label": "Coffee: Annual Flowering"
+  },
+  {
+    "key": "coffee-3",
+    "crop": "coffee",
+    "query": "coffee ripe cherries",
+    "label": "Coffee: Harvest"
+  },
+  {
+    "key": "arecanut-cover",
+    "crop": "arecanut",
+    "query": "Areca catechu fruits",
+    "label": "Areca Nut (Betel Nut)"
+  },
+  {
+    "key": "arecanut-0",
+    "crop": "arecanut",
+    "query": "Areca catechu seedlings",
+    "label": "Areca Nut (Betel Nut): Year 1-5"
+  },
+  {
+    "key": "arecanut-1",
+    "crop": "arecanut",
+    "query": "Areca catechu fruits",
+    "label": "Areca Nut (Betel Nut): Year 5-7"
+  },
+  {
+    "key": "arecanut-2",
+    "crop": "arecanut",
+    "query": "Areca catechu plantation",
+    "label": "Areca Nut (Betel Nut): Full Bearing"
+  },
+  {
+    "key": "rubber-cover",
+    "crop": "rubber",
+    "query": "Hevea brasiliensis latex tapping",
+    "label": "Rubber"
+  },
+  {
+    "key": "rubber-0",
+    "crop": "rubber",
+    "query": "Hevea brasiliensis plantation",
+    "label": "Rubber: Year 1-6"
+  },
+  {
+    "key": "rubber-1",
+    "crop": "rubber",
+    "query": "rubber tree tapping",
+    "label": "Rubber: Year 6-7"
+  },
+  {
+    "key": "rubber-2",
+    "crop": "rubber",
+    "query": "rubber latex collection",
+    "label": "Rubber: Full Production"
+  },
+  {
+    "key": "aloevera-cover",
+    "crop": "aloevera",
+    "query": "Aloe vera plant",
+    "label": "Aloe Vera"
+  },
+  {
+    "key": "aloevera-0",
+    "crop": "aloevera",
+    "query": "Aloe vera offsets",
+    "label": "Aloe Vera: Planting"
+  },
+  {
+    "key": "aloevera-1",
+    "crop": "aloevera",
+    "query": "Aloe vera plant",
+    "label": "Aloe Vera: Establishment"
+  },
+  {
+    "key": "aloevera-2",
+    "crop": "aloevera",
+    "query": "Aloe vera leaves",
+    "label": "Aloe Vera: First Harvest"
+  },
+  {
+    "key": "aloevera-3",
+    "crop": "aloevera",
+    "query": "Aloe vera plantation",
+    "label": "Aloe Vera: Ongoing"
+  },
+  {
+    "key": "lemongrass-cover",
+    "crop": "lemongrass",
+    "query": "Cymbopogon citratus",
+    "label": "Lemongrass"
+  },
+  {
+    "key": "lemongrass-0",
+    "crop": "lemongrass",
+    "query": "lemongrass roots",
+    "label": "Lemongrass: Planting"
+  },
+  {
+    "key": "lemongrass-1",
+    "crop": "lemongrass",
+    "query": "Cymbopogon citratus plant",
+    "label": "Lemongrass: Establishment"
+  },
+  {
+    "key": "lemongrass-2",
+    "crop": "lemongrass",
+    "query": "lemongrass leaves",
+    "label": "Lemongrass: First Harvest"
+  },
+  {
+    "key": "lemongrass-3",
+    "crop": "lemongrass",
+    "query": "lemongrass harvested",
+    "label": "Lemongrass: Subsequent Harvests"
+  },
+  {
+    "key": "lavender-cover",
+    "crop": "lavender",
+    "query": "Lavandula angustifolia flowers",
+    "label": "Lavender"
+  },
+  {
+    "key": "lavender-0",
+    "crop": "lavender",
+    "query": "lavender young plants",
+    "label": "Lavender: Planting"
+  },
+  {
+    "key": "lavender-1",
+    "crop": "lavender",
+    "query": "lavender plant",
+    "label": "Lavender: Establishment"
+  },
+  {
+    "key": "lavender-2",
+    "crop": "lavender",
+    "query": "Lavandula angustifolia flowering",
+    "label": "Lavender: First Flowering"
+  },
+  {
+    "key": "lavender-3",
+    "crop": "lavender",
+    "query": "lavender harvest",
+    "label": "Lavender: Full Production"
+  },
+  {
+    "key": "marigold-cover",
+    "crop": "marigold",
+    "query": "Tagetes erecta flowers",
+    "label": "Marigold"
+  },
+  {
+    "key": "marigold-0",
+    "crop": "marigold",
+    "query": "marigold seedlings",
+    "label": "Marigold: Nursery"
+  },
+  {
+    "key": "marigold-1",
+    "crop": "marigold",
+    "query": "Tagetes erecta plant",
+    "label": "Marigold: Growth"
+  },
+  {
+    "key": "marigold-2",
+    "crop": "marigold",
+    "query": "Tagetes erecta flowers",
+    "label": "Marigold: Flowering"
+  },
+  {
+    "key": "marigold-3",
+    "crop": "marigold",
+    "query": "marigold flower harvest",
+    "label": "Marigold: Harvest"
+  },
+  {
+    "key": "jasmine-cover",
+    "crop": "jasmine",
+    "query": "Jasminum sambac flowers",
+    "label": "Jasmine"
+  },
+  {
+    "key": "jasmine-0",
+    "crop": "jasmine",
+    "query": "jasmine cuttings",
+    "label": "Jasmine: Planting"
+  },
+  {
+    "key": "jasmine-1",
+    "crop": "jasmine",
+    "query": "Jasminum sambac plant",
+    "label": "Jasmine: Establishment"
+  },
+  {
+    "key": "jasmine-2",
+    "crop": "jasmine",
+    "query": "Jasminum sambac flowers",
+    "label": "Jasmine: First Flowering"
+  },
+  {
+    "key": "jasmine-3",
+    "crop": "jasmine",
+    "query": "jasmine flower harvest",
+    "label": "Jasmine: Full Production"
+  },
+  {
+    "key": "teak-cover",
+    "crop": "teak",
+    "query": "Tectona grandis tree",
+    "label": "Teak Wood"
+  },
+  {
+    "key": "teak-0",
+    "crop": "teak",
+    "query": "teak seedlings",
+    "label": "Teak Wood: Year 1-5"
+  },
+  {
+    "key": "teak-1",
+    "crop": "teak",
+    "query": "teak plantation",
+    "label": "Teak Wood: Year 5-10"
+  },
+  {
+    "key": "teak-2",
+    "crop": "teak",
+    "query": "Tectona grandis trunk",
+    "label": "Teak Wood: Year 10-15"
+  },
+  {
+    "key": "teak-3",
+    "crop": "teak",
+    "query": "teak logs",
+    "label": "Teak Wood: Year 15-20"
+  },
+  {
+    "key": "bamboo-cover",
+    "crop": "bamboo",
+    "query": "Bambusa bamboo culms",
+    "label": "Bamboo"
+  },
+  {
+    "key": "bamboo-0",
+    "crop": "bamboo",
+    "query": "bamboo shoots",
+    "label": "Bamboo: Year 1-2"
+  },
+  {
+    "key": "bamboo-1",
+    "crop": "bamboo",
+    "query": "bamboo young culms",
+    "label": "Bamboo: Year 2-3"
+  },
+  {
+    "key": "bamboo-2",
+    "crop": "bamboo",
+    "query": "bamboo mature culms",
+    "label": "Bamboo: Year 3-5"
+  },
+  {
+    "key": "bamboo-3",
+    "crop": "bamboo",
+    "query": "bamboo harvest",
+    "label": "Bamboo: Ongoing"
+  },
+  {
+    "key": "sandalwood-cover",
+    "crop": "sandalwood",
+    "query": "Santalum album tree",
+    "label": "Sandalwood"
+  },
+  {
+    "key": "sandalwood-0",
+    "crop": "sandalwood",
+    "query": "Santalum album seedlings",
+    "label": "Sandalwood: Year 1-5"
+  },
+  {
+    "key": "sandalwood-1",
+    "crop": "sandalwood",
+    "query": "Santalum album tree",
+    "label": "Sandalwood: Year 5-10"
+  },
+  {
+    "key": "sandalwood-2",
+    "crop": "sandalwood",
+    "query": "Santalum album trunk",
+    "label": "Sandalwood: Year 10-15"
+  },
+  {
+    "key": "sandalwood-3",
+    "crop": "sandalwood",
+    "query": "sandalwood wood",
+    "label": "Sandalwood: Year 15-20"
+  },
+  {
+    "key": "mushroom-cover",
+    "crop": "mushroom",
+    "query": "Pleurotus ostreatus cultivation",
+    "label": "Mushroom (Oyster & Button)"
+  },
+  {
+    "key": "mushroom-0",
+    "crop": "mushroom",
+    "query": "mushroom straw substrate",
+    "label": "Mushroom (Oyster & Button): Substrate Prep & Sterilization (Week 1)"
+  },
+  {
+    "key": "mushroom-1",
+    "crop": "mushroom",
+    "query": "mushroom spawn bags",
+    "label": "Mushroom (Oyster & Button): Spawning & Polybag Filling (Week 2)"
+  },
+  {
+    "key": "mushroom-2",
+    "crop": "mushroom",
+    "query": "Pleurotus ostreatus mycelium",
+    "label": "Mushroom (Oyster & Button): Spawn Run / Mycelium Colonization (Month 1)"
+  },
+  {
+    "key": "mushroom-3",
+    "crop": "mushroom",
+    "query": "oyster mushroom pins",
+    "label": "Mushroom (Oyster & Button): Pinhead Initiation & Light Induction (Month 1.5)"
+  },
+  {
+    "key": "mushroom-4",
+    "crop": "mushroom",
+    "query": "oyster mushroom cultivation clusters",
+    "label": "Mushroom (Oyster & Button): Full Flush & Harvesting (Month 2)"
+  },
+  {
+    "key": "apple-cover",
+    "crop": "apple",
+    "query": "Malus domestica fruit",
+    "label": "Apple"
+  },
+  {
+    "key": "apple-0",
+    "crop": "apple",
+    "query": "apple young trees orchard",
+    "label": "Apple: Year 1-4"
+  },
+  {
+    "key": "apple-1",
+    "crop": "apple",
+    "query": "apple fruit tree",
+    "label": "Apple: Year 4-6"
+  },
+  {
+    "key": "apple-2",
+    "crop": "apple",
+    "query": "apple blossoms",
+    "label": "Apple: Annual Flowering"
+  },
+  {
+    "key": "apple-3",
+    "crop": "apple",
+    "query": "apple harvest",
+    "label": "Apple: Harvest"
+  },
+  {
+    "key": "mint-cover",
+    "crop": "mint",
+    "query": "Mentha spicata leaves",
+    "label": "Mint (Pudina)"
+  },
+  {
+    "key": "mint-0",
+    "crop": "mint",
+    "query": "mint cuttings roots",
+    "label": "Mint (Pudina): Planting"
+  },
+  {
+    "key": "mint-1",
+    "crop": "mint",
+    "query": "Mentha spicata plant",
+    "label": "Mint (Pudina): Growth"
+  },
+  {
+    "key": "mint-2",
+    "crop": "mint",
+    "query": "mint harvest",
+    "label": "Mint (Pudina): First Harvest"
+  },
+  {
+    "key": "mint-3",
+    "crop": "mint",
+    "query": "mint oil distillation",
+    "label": "Mint (Pudina): Oil Distillation"
+  }
+]
